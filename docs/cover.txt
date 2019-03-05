@@ -1,0 +1,23 @@
+Hi,
+
+Please forward to relevant personnel. To take your software projects to the next level, kindly review my profile at https://saadshams.github.io/docs/Saad.pdf
+
+Pattern Oriented Software Architecture, Microservices, Distributed, Concurrent, Parallel, Resilient, Interactive and Realtime Systems. Frameworks, SDK Libraries and Plugins. Object Oriented, Reactive, Functional and Event Driven Design Patterns for Large Scale Enterprise Systems. SAAS, PAAS.
+
+Worked on several bluechip clients: Adobe, FICO, Tiffany and Co. Cartier, Sotheby's Realty, Honeywell, Emirates Airlines, General Motors, Chevrolet, Cadillac, Phillip Morris, McDonald's, MontBlanc, Sony, Celebrity Cruises, Royal Caribbean, United Healthcar, Johnnie Walker etc.
+
+A polyglot developer and the author of of Java, Scala, Swift, C#, JavaScript, GoLang PureMVC repositories along with several others:
+
+Standard MVC - https://github.com/saadshams/puremvc-java-standard-framework 
+Multicore MVC - https://github.com/saadshams/puremvc-java-multicore-framework
+Pipes and Messaging - https://github.com/saadshams/puremvc-java-util-pipes
+Other - https://github.com/saadshams, https://github.com/sshams
+
+Can provide reference letters on request.
+
+Thanks,
+Saad
+https://www.linkedin.com/in/muizz/
+786-202-7114
+
+P.S. An area of interest for us to talk about would be how I approach each Microservice Dev architecture by dividing it into Service Layer and Data Layers (SDKs, Libraries), each with its own unit tests. It's a hybrid approach combing both Object Oriented (Service) and Functional Paradigms (Data). More granularity and a decoupled approach while avoiding over-engineering.
